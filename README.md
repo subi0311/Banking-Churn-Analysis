@@ -5,7 +5,7 @@ This repository contains a Power BI dashboard for analyzing **banking customer c
 ## 📊 Dashboard Overview
 
 The dashboard provides a comprehensive view of customer churn across various dimensions, including gender, age, region, credit score, balance, and salary.
-[Dashboard]()
+[Image alt](https://github.com/subi0311/Banking-Churn-Analysis/blob/main/Dashboard/Screenshot%202025-06-11%20143355.png?raw=true)
 [Image alt](https://github.com/subi0311/Banking-Churn-Analysis/blob/main/Dashboard/Screenshot%202025-06-11%20143302.png?raw=true)
 [Image alt](https://github.com/subi0311/Banking-Churn-Analysis/blob/main/Dashboard/Screenshot%202025-06-11%20143318.png?raw=true)
 ---
